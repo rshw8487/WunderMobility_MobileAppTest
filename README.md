@@ -38,8 +38,14 @@
 
 # Framework with testng tests setup and execution:
 
- Created 2 automation test scripts under 'TestCase_MobileAutomation' class:
+ - Created 2 automation test scripts under 'TestCase_MobileAutomation' class:
  
    1.StartRegistration
    
    2.WebViewInteraction
+
+- Report will be generated under 'Test-output' folder-> emailable-report.html.
+
+- Can execute the testng.xml file to run the code.
+
+-POM.xml can provide all the related dependencies required for the project.
