@@ -48,4 +48,22 @@
 
 - Can execute the testng.xml file to run the code.
 
-- Maven is used as build tool (can be downloaded from here). pom.xml file is present in base directory which has all the required        dependencies and code to invoke testng.xml file when executed from command line.
+- pom.xml file is present in base directory which has all the required dependencies.
+
+# How to execute a test 
+
+1. Connect the  real android mobile device through USB cable through vysor emulator to laptop.
+2. Open Appium server and add apk application path.
+3. Run the appium server
+4. Open Eclipse -> Make sure all capablities added in the code.
+                   1.Device name
+                   2.Platform version
+                   3.platform name
+                   4.application package
+                   5.application activity
+ 5.Run the testNG.XML
+ 6.After execution make sure test case pass/fail result should be capture in HTML report.
+                   
+
+
+
