@@ -48,4 +48,4 @@
 
 - Can execute the testng.xml file to run the code.
 
--POM.xml can provide all the related dependencies required for the project.
+- Maven is used as build tool (can be downloaded from here). pom.xml file is present in base directory which has all the required        dependencies and code to invoke testng.xml file when executed from command line.
