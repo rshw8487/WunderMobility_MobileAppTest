@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Appium Selenium Project">
+
+	<test name="testngTest">
+		<classes>
+			<class name="appium.setup.TestCase_MobileAutomation" />
+		</classes>
+	</test>
+	
+</suite>
