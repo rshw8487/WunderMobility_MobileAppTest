@@ -30,3 +30,15 @@
  [Vysor]                                   Vysor can use as an emulator on a physical device.
  
  [testNG]                                  TestNG framework to provide more annotations and reporting purpose.
+ 
+ [Android apk]                             selendroid-test-app-0.17.0.apk
+
+
+
+
+# Framework with testng tests setup and execution:
+
+ Created 2 automation test scripts under 'TestCase_MobileAutomation':
+ 
+   1.StartRegistration
+   2.WebViewInteraction
