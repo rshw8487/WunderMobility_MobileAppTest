@@ -38,7 +38,8 @@
 
 # Framework with testng tests setup and execution:
 
- Created 2 automation test scripts under 'TestCase_MobileAutomation':
+ Created 2 automation test scripts under 'TestCase_MobileAutomation' class:
  
    1.StartRegistration
+   
    2.WebViewInteraction
