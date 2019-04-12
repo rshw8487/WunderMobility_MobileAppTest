@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="146617" started-at="2019-04-12T05:15:05Z" finished-at="2019-04-12T05:17:31Z">
+  <suite name="Appium Selenium Project" duration-ms="101830" started-at="2019-04-12T06:26:14Z" finished-at="2019-04-12T06:27:56Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="146617" started-at="2019-04-12T05:15:05Z" finished-at="2019-04-12T05:17:31Z">
+    <test name="testngTest" duration-ms="101830" started-at="2019-04-12T06:26:14Z" finished-at="2019-04-12T06:27:56Z">
       <class name="appium.setup.TestCase_MobileAutomation">
-        <test-method status="PASS" signature="createAppiumDriver()[pri:0, instance:appium.setup.TestCase_MobileAutomation@e720b71]" name="createAppiumDriver" is-config="true" duration-ms="15853" started-at="2019-04-12T05:15:05Z" finished-at="2019-04-12T05:15:21Z">
+        <test-method status="PASS" signature="createAppiumDriver()[pri:0, instance:appium.setup.TestCase_MobileAutomation@612679d6]" name="createAppiumDriver" is-config="true" duration-ms="14462" started-at="2019-04-12T06:26:14Z" finished-at="2019-04-12T06:26:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createAppiumDriver -->
-        <test-method status="PASS" signature="StartRegistration()[pri:0, instance:appium.setup.TestCase_MobileAutomation@e720b71]" name="StartRegistration" duration-ms="100489" started-at="2019-04-12T05:15:21Z" finished-at="2019-04-12T05:17:01Z">
+        <test-method status="PASS" signature="StartRegistration()[pri:0, instance:appium.setup.TestCase_MobileAutomation@612679d6]" name="StartRegistration" duration-ms="64176" started-at="2019-04-12T06:26:28Z" finished-at="2019-04-12T06:27:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- StartRegistration -->
-        <test-method status="PASS" signature="WebViewInteraction()[pri:0, instance:appium.setup.TestCase_MobileAutomation@e720b71]" name="WebViewInteraction" duration-ms="29376" started-at="2019-04-12T05:17:01Z" finished-at="2019-04-12T05:17:30Z">
+        <test-method status="PASS" signature="WebViewInteraction()[pri:0, instance:appium.setup.TestCase_MobileAutomation@612679d6]" name="WebViewInteraction" duration-ms="22278" started-at="2019-04-12T06:27:32Z" finished-at="2019-04-12T06:27:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WebViewInteraction -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:appium.setup.TestCase_MobileAutomation@e720b71]" name="afterTest" is-config="true" duration-ms="862" started-at="2019-04-12T05:17:30Z" finished-at="2019-04-12T05:17:31Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:appium.setup.TestCase_MobileAutomation@612679d6]" name="afterTest" is-config="true" duration-ms="884" started-at="2019-04-12T06:27:55Z" finished-at="2019-04-12T06:27:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- appium.setup.TestCase_MobileAutomation -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- testngTest -->
+  </suite> <!-- Appium Selenium Project -->
 </testng-results>

@@ -93,15 +93,11 @@ public class TestCase_MobileAutomation extends AppiumDriverBase {
 		// Enter name
 		element = driver.findElement(By.xpath("//*[@content-desc ='Enter your name here!']"));
 		element.click();
-		
-		WebElement toClear = driver.findElement(By.xpath("//*[@content-desc ='Enter your name here!']"));
-		
-		toClear.sendKeys(Keys.CONTROL + "a");
-		//toClear.sendKeys(Keys.DELETE);
-		toClear.clear();
-		
+		element.clear();
+		element.sendKeys("Rahul");
+	
 
-		// Select prefered card
+		// Select preferred card
 		element = driver.findElement(By.xpath("//*[@content-desc = 'Volvo']"));
 		element.click();
 
