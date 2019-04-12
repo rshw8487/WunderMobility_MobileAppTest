@@ -1,4 +1,17 @@
 # WunderMobility_MobileAppTest
-Wunder Mobility Mobile app test for Selendroid apk file.
 
-Mobile automation testing framework (Android) - using Selenium and testng tests.
+# Mobile automation testing framework (Android) - using Selenium and testng tests.
+
+# System Requirements:
+
+ [Appium]
+ 
+ [Selenium WebDriver jar]
+ 
+ [Android studio]
+ 
+ [UI automator]
+ 
+ [Eclipse]
+ 
+ [Vysor]
