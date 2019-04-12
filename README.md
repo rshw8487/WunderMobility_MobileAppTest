@@ -4,13 +4,13 @@
 
 # System Requirements:
 
- [Appium]                                    Latest version of appium
+ #Appium                                    Latest version of appium
  
- [Selenium WebDriver jar]                    Import all the dependencies through Maven for selenium
+ #Selenium WebDriver jar                    Import all the dependencies through Maven for selenium
  
- [Android studio]                            Latest version of Android studio 3.2
+ #Android studio                            Latest version of Android studio 3.2
  
- [UI automator]                              Tool used to capature the webelements from mobile devices. 
+ #UI automator                              Tool used to capture the webelements from mobile devices. 
  
                                                     1.Once Android SDK installed, navigate to link
                                                     c:\users\<username>\AppData\Local\Android\sdk\tools 
@@ -24,6 +24,8 @@
                                                     5.select app from applications.
                       
  
- [Eclipse]                                  Download Eclipse to create automation scripts.
+ #Eclipse                                 Download Eclipse to create automation scripts.
  
- [Vysor]                                    Vysor can use as an emulator on a physical device.
+ #Vysor                                    Vysor can use as an emulator on a physical device.
+ 
+ #testNG                                   TestNG framework to provide more annotations and reporting purpose.
