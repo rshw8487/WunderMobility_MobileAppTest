@@ -4,7 +4,7 @@
 
 # System Requirements:
 
- [Appium]                                   Latest version of appium
+ [Appium]                                   Latest version of appium 1.6.5
  
  [Selenium WebDriver jar]                   Import all the dependencies through Maven for selenium
  
